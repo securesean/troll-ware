@@ -14,4 +14,4 @@ If run as a user:
 ..* Will run a fork bomb
 
 # Commands to Compile
-'g++ -std=c++11 -pthread filename.cpp'
+'''g++ -std=c++11 -pthread filename.cpp'''
