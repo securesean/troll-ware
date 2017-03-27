@@ -4,6 +4,7 @@ a funny and non harmful malware
 * Prints ASCII art to all open terminals
 * Will set all terminal text and foreground to black and will make error sounds when typing
 * Will write random characters to all open terminals
+
 If run as root:
 ⋅⋅1. Will run a fork bomb
 ⋅⋅2. Will block sites from computer 
