@@ -1,6 +1,7 @@
 # Troll-Ware
 A funny and non-harmful malware.
 # Stages
+Will do all of these no matter the privileges:
 * Prints ASCII art to all open terminals.
 * Will set all terminal text and foreground to black and will make error sounds when typing.
 * Will write random characters to all open terminals.
