@@ -14,5 +14,6 @@ If run as root:
 If run as a user:
 * Will run a fork bomb.
 
-# Commands to Compile
-`g++ -std=c++11 -pthread filename.cpp`
+# Command to Compile
+`g++ -std=c++11 -pthread mail.cpp`
+To run it simple run the a.out binary
